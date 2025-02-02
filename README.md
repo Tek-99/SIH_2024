@@ -1,4 +1,4 @@
-# HackStreet3.0
+# SIH 2024
 Oil Spill Detection in marine environments using Satellite data
 
 ## **Introduction**
